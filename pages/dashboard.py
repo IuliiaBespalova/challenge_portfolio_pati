@@ -1,0 +1,2 @@
+class Dashboard(BasePage):
+    pass
