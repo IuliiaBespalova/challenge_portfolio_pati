@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from pages.base_page import BasePage
 
 
@@ -16,3 +17,7 @@ class Dashboard(BasePage):
 
 
     pass
+=======
+class Dashboard(BasePage):
+    pass
+>>>>>>> fbb8a8d52da2c2af29bf932a3cf5724af63d6e2b
