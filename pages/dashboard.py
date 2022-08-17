@@ -11,6 +11,7 @@ class Dashboard(BasePage):
     dev_team_contact_xpath = //a[contains(@href, '://')]
     login_field_xpath = // *[text()="Login"]
     login_field_xpath = // *[@ id="login"]
+    events_count_box_xpath = //*[text()='Events count']
 
 
 
